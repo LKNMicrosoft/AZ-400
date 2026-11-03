@@ -153,3 +153,35 @@ CMMI Process:-
 
 5. ## Link Github to Azure Boards
 
+[Linking Github to Azure Boards](https://scrimba.com/explain/guide0tugbcel7)
+
+Step-by-step connection process:-
+    - Install Azure Boards App from GitHub Marketplace
+    - Configure repository access (all repos or selective)
+    - Authenticate with Azure DevOps using preferred method
+    - Map repositories to projects in Azure Boards
+    - Test integration with sample links and commits
+
+
+6. ## Configure Github Projects
+
+[Configuring Github Projects - Scrimba Explain](https://scrimba.com/explain/guide00o78r1a6)
+
+7. ## Managing Github Project Iterations
+
+[Managing Github Project Iterations](https://scrimba.com/explain/guide0ggb8vlmg)
+
+8. ## Customize Project Views
+
+[Customize Project Views - Scrimba Explain](https://scrimba.com/explain/guide0urtm8cso)
+
+View optimization for stakeholder needs:-
+    - `Development teams`: Board view with status-based grouping for daily standup efficiency
+    - `Product managers`: Table view with priority and business value sorting for backlog grooming
+    - `Executives`: Timeline view with milestone filtering for strategic oversight
+    - `QA teams`: Board view filtered by testing status and defect severity
+
+
+9. ## Collaborate using team discussions
+
+[Collaborate using team discussions - Scrimba Explain](https://scrimba.com/explain/guide0g3nior7s)
