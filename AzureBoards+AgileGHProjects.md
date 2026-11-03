@@ -76,7 +76,7 @@ Enterprise scaling considerations:-
 Azure Boards is Microsoft's comprehensive agile planning and tracking solution, designed to support teams using Agile, Scrum, Kanban, and custom methodologies. 
 
 ### Core capabilities and competitive advantages
-Enterprise-grade features:
+Enterprise-grade features:-
     - `process customization`
     - `scalable hierarchy`
     - `advanced reporting`
@@ -84,15 +84,14 @@ Enterprise-grade features:
     - `compliance and governance`
 
 
-Supported methodologies out-of-the-box:
+Supported methodologies out-of-the-box:-
     - `Agile`: User stories, features, and epics with sprint planning
     - `Scrum`: Sprint management, burndown charts, and velocity tracking
     - `Kanban`: Continuous flow with WIP limits and cumulative flow diagrams
     - `CMMI`: Formal requirements and change management processes
 
 
-Standard system fields and capabilities:
-
+Standard system fields and capabilities:-
     - `Discussion`: Threaded comments for collaboration and decision tracking
     - `History`: Complete audit trail of all changes and updates
     - `Links`: Relationships between work items, commits, and external resources
@@ -100,13 +99,13 @@ Standard system fields and capabilities:
     - `Tags`: Flexible labeling for organization and filtering
 
 ### Advanced querying and reporting
-Query types and applications:
+Query types and applications:-
     - `flat list queries`
     - `tree queries`
     - `direct links queries`
 
 
-Common query scenarios:
+Common query scenarios:-
     - `Triage workflows`: Group unassigned bugs by severity for team review
     - `Sprint planning`: Filter backlog items by priority and estimation
     - `Bulk operations`: Update multiple work items simultaneously
@@ -114,4 +113,43 @@ Common query scenarios:
     - `Progress reporting`: Create status charts for stakeholder communication
 
 
-    
+4. ## Azure DevOps Configurations
+
+
+[Azure DevOPs Config - Scrimba Explain](https://scrimba.com/explain/guide05k063g5e)
+
+
+Stakeholder mapping and roles:-
+    - `Executive sponsors`: Provide strategic direction and resource allocation
+    - `Product owners`: Define requirements and prioritize features
+    - `Development teams`: Implement features and maintain technical quality
+    - `Operations teams`: Ensure deployment, monitoring, and system reliability
+    - `Quality assurance`: Validate functionality and maintain quality standards
+    - `Security teams`: Implement security requirements and compliance measures
+
+
+Work item process selection guide:-
+Agile Process:-
+    - `Ideal for`: Teams familiar with user stories and iterative development
+    - `Key artifacts`: User stories, features, epics, tasks, bugs
+    - `Workflow`: New → Active → Resolved → Closed
+    - `Best practices`: Regular sprint planning, retrospectives, continuous delivery
+Basic Process:-
+    - `Ideal for`: Small teams, simple projects, rapid prototyping
+    - `Key artifacts`: Issues, tasks, epics
+    - `Workflow`: To Do → Doing → Done
+    - `Benefits`: Minimal overhead, easy to understand and adopt
+Scrum Process:-
+    - `Ideal for`: Teams following formal Scrum methodology
+    - `Key artifacts`: Product backlog items, tasks, bugs, impediments
+    - `Workflow`: New → Approved → Committed → Done
+    - `Ceremonies`: Sprint planning, daily standups, sprint reviews, retrospectives
+CMMI Process:-
+    - `Ideal for`: Organizations requiring formal process improvement and compliance
+    - `Key artifacts`: Requirements, change requests, risks, reviews
+    - `Workflow`: Proposed → Active → Resolved → Closed
+    - `Governance`: Formal approval processes, comprehensive tracking
+
+
+5. ## Link Github to Azure Boards
+
