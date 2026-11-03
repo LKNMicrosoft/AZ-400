@@ -185,3 +185,26 @@ View optimization for stakeholder needs:-
 9. ## Collaborate using team discussions
 
 [Collaborate using team discussions - Scrimba Explain](https://scrimba.com/explain/guide0g3nior7s)
+
+10. ## Design and implement a strategy for feedback cycles
+
+[Feedback cycles in Azure DevOps  - Scrimba Explain](https://scrimba.com/explain/guide0tjgfphqc)
+
+Primary feedback channels:-
+    - `User feedback portals`: Direct customer input through integrated feedback forms and satisfaction surveys
+    - `Customer support integration`: Automated ticket analysis and trend identification from support systems
+    - `Bug reporting systems`: Structured defect identification and classification from internal and external sources
+    - `Automated testing feedback`: Continuous quality signals from CI/CD pipelines and testing frameworks
+    - `Production monitoring`: Real-time performance metrics and error tracking from live systems
+
+
+11. ## Design and implement source, bug, and quality traceability
+
+[Traceability in DevOps 🔍- Scrimba Explain](https://scrimba.com/explain/guide0jki2jh6d)
+
+Enterprise traceability benefits:-
+    - `Compliance and audit support`: Comprehensive change history for regulatory requirements
+    - `Risk management`: Rapid impact assessment and rollback capabilities for critical issues
+    - `Knowledge preservation`: Institutional memory capture and transfer for team continuity
+    - `Process optimization`: Data-driven insights for workflow and quality improvements
+    - `Customer transparency`: Clear communication of issue resolution and feature delivery
