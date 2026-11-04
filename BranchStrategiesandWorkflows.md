@@ -35,3 +35,14 @@ Clear descriptions: Explain what, why, and how of your changes.
 Visual aids: Include screenshots, diagrams, or demo links when relevant.
 Reviewer guidance: Use @mentions to request specific expertise.
 Template usage: Follow team templates for consistency.
+
+3. ## Explore Git branch model for continuous delivery
+
+[Git Branching for CD - Explain](https://scrimba.com/explain/guide0l59qfl51)
+
+Main Branch Stability:-
+    -`Single source of truth`: The main branch is the exclusive path for production releases.
+    -`Production readiness`: Main branch must always be in a deployable state.
+    -`Branch protection`: Implement comprehensive branch policies to prevent direct commits.
+    -`Gated changes`: All modifications flow through pull requests exclusively.
+    -`Release tracking`: Tag all production releases with semantic Git tags.
